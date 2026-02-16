@@ -1,0 +1,5 @@
+com/transporte/ubicaciones/model/UbicacionGPS.class
+com/transporte/ubicaciones/ProductorUbicacionesApplication.class
+com/transporte/ubicaciones/service/UbicacionService.class
+com/transporte/ubicaciones/config/RabbitMQConfig.class
+com/transporte/ubicaciones/controller/UbicacionController.class
